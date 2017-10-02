@@ -1,7 +1,0 @@
-# WebBook
--echo "# WebBook" >> README.md		
- -git init		
- -git add README.md		
- -git commit -m "first commit"		
- -git remote add origin https://www.challengermode.com/Challenges/View/%207ea90b83-db8c-e711-80c2-000d3a210289
- -git push -u origin master
